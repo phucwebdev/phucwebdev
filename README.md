@@ -9,11 +9,10 @@ Experienced in C++, Python, and Java.
 ## 🌐 Socials:
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Truong%20Minh%20Hoang%20Phuc)
-[![Facebook](https://img.shields.io/badge/-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/minh.phuc.957609?locale=vi_VN)
-[![Instagram](https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mingphuc08/)
-[![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoanphuc135@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin&color=B5)](https://linkedin.com/in/Truong%20Minh%20Hoang%20Phuc)
+[![Facebook](https://img.shields.io/badge/-Facebook-black.svg?style=social&logo=facebook&color=B5)](https://www.facebook.com/minh.phuc.957609?locale=vi_VN)
+[![Instagram](https://img.shields.io/badge/-Instagram-black.svg?style=social&logo=instagram&color=B5)](https://www.instagram.com/mingphuc08/)
+[![Gmail](https://img.shields.io/badge/-Gmail-black.svg?style=social&logo=gmail&color=B5)](mailto:hoanphuc135@gmail.com)
 </div>
 
 # 💻 Tech Stack:
